@@ -1,7 +1,7 @@
 
 # Introduction to Product List Sorting (PLS)
 ### Level: Beginner 
-### Presentation: [Introduction to Product List Sorting](workshop/Presentation_PLS_Intro.pptx)
+### Presentation: [Introduction to Product List Sorting](workshop/Presentation_PLS_Intro.pdf)
 
 ## Workshop description
  During the workshop you will learn how to train a machine learning model in Python to sort products into a list that maximizes the click-through rate (CTR). This process solves one of the classic problems in e-commerce: the virtual presentation of products, especially their order, which varies along the customer journey.
