@@ -10,7 +10,10 @@
 ## Requirements
 + Python 3.8
 + conda
-+ Kaggle API token - instructions [here](https://www.kaggle.com/docs/api)
++ Kaggle API token. Usage instructions:
+
+To use the Kaggle API, sign up for a Kaggle account at https://www.kaggle.com. Then go to the 'Account' tab of your user profile and select 'Create API Token'. This will trigger the download of kaggle.json, a file containing your API credentials. Place this file in the location ~/.kaggle/kaggle.json. On Windows in the location C:\Users\<Windows-username>\.kaggle\kaggle.json.
+[Documentation here](https://www.kaggle.com/docs/api)
 
 
 ## Usage
